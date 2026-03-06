@@ -70,7 +70,6 @@ Encapsulation diterapkan dengan:
 Contoh:
 ```java
 private double price;
-
 public void setPrice(double price) {
     if(price > 0){
         this.price = price;
@@ -98,17 +97,13 @@ Beberapa validasi pada sistem:
 3. Tambah Stok
 4. Kurangi Stok
 5. Keluar
+Pilih Menu: 
 ```
 
 ---
 
 # UML Diagram
-![UML Diagram](UML_Diagram.png)
-
----
-
-# Screenshot Running Program
-![Program Output](screenshot_running.png)
+<img width="631" height="402" alt="uml-hasna-Page-2 drawio" src="https://github.com/user-attachments/assets/5f64f936-59a1-427e-a44e-629546120e01" />
 
 ---
 
